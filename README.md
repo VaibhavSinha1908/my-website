@@ -5,3 +5,5 @@ This is an awesome website.
 This update is coming from Example branch.
 
 More updates from Example Branch.
+
+This update is coming from new branch from local.
